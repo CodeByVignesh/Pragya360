@@ -1,0 +1,13 @@
+aiohttp==3.8.4
+autocorrect==2.6.1
+elasticsearch==7.14.0
+fastapi==0.89.1
+gunicorn==21.2.0
+pymongo==4.3.3
+python-dotenv==1.0.0
+python-jose==3.3.0
+requests==2.28.2
+scikit-learn==1.2.2
+spacy==3.5.3
+textblob==0.17.1
+uvicorn==0.20.0
